@@ -1,9 +1,13 @@
 # Blog Using asp.net and Angular
 
-##To start the frontend angular cli is needed
-
-npm install
-ng serve or ng serve --open
+## Installation
+***
+A little intro about the installation. 
+```
+$ git clone https://example.com
+$ cd ../path/to/the/file
+$ npm install
+$ npm start
 
 For backend Use visual studio or dotnet cli latest vesion
 for cli 
