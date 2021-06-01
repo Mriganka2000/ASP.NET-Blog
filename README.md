@@ -2,7 +2,7 @@
 
 ## Installation
 ***
-A little intro about the installation. 
+For the frontend
 ```
 $ git clone https://example.com
 $ cd ../path/to/the/file
